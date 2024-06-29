@@ -26,4 +26,10 @@ game pikachu
   - Nếu chọn 2 hinh khác nhau: 0 có điểm, và 2 hình sẽ đóng lại
   - Nếu chọn 2 hình giống + 20 điểm và 2 hình đã chọn sẽ mở ra.
   ![image](https://github.com/Trang-use/assigment/assets/173694419/ee705e55-7e88-450a-98e4-e6b61b262422)
+#### 3 - Màn hình khi chiến thắng trò chơi 
+![image](https://github.com/Trang-use/assigment/assets/173694419/324f0b1a-78b8-4225-9678-10857ee53439)
+#### 4 - Màn hình khi thua trò chơi 
+![image](https://github.com/Trang-use/assigment/assets/173694419/2955b91f-e1ca-46e4-adeb-c85d5426f984)
+
+
 
